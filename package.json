@@ -1,0 +1,19 @@
+{
+  "name": "house-blog",
+  "version": "1.0.0",
+  "description": "Blog for hoyse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookah/house-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dookah/house-blog/issues"
+  },
+  "homepage": "https://github.com/dookah/house-blog#readme"
+}
